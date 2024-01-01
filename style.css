@@ -1,0 +1,26 @@
+body{
+    background-size: cover;
+}
+.heading{
+    width: 100%;
+    margin: 0;
+    font-size: 15px;
+}
+canvas{
+    background-color: #000000;
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px #73cfd8;
+    margin-top:200px;
+}
+ img{
+ width:100px;
+}
+.div_speed{
+    float: left;
+    padding:30px;
+}
+.div_volume{
+    float: right;
+    padding:30px;
+}
